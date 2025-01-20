@@ -60,7 +60,5 @@ function copiarTexto() {
    document.execCommand("copy");
    document.body.removeChild(tempInput);
    */
-
-   // Mensagem opcional para o usuário
    alert("Pix DESATIVADO!");
 }
